@@ -1,0 +1,6 @@
+Django
+django-mptt
+djangorestframework
+psycopg2
+requests
+drf-spectacular
